@@ -16,7 +16,7 @@ namespace UserAccountNamespace
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmLoginAccount());
+            Application.Run(new frmPurchaseDiscountedItem());
         }
     }
 }

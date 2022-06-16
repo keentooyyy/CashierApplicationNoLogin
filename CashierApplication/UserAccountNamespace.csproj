@@ -47,12 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cashier.cs" />
-    <Compile Include="frmLoginAccount..cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmLoginAccount..Designer.cs">
-      <DependentUpon>frmLoginAccount..cs</DependentUpon>
-    </Compile>
     <Compile Include="frmPurchaseDiscountedItem.cs">
       <SubType>Form</SubType>
     </Compile>

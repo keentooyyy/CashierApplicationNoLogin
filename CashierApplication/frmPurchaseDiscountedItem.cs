@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CashierApplication
+namespace UserAccountNamespace
 {
     public partial class frmPurchaseDiscountedItem : Form
     {
