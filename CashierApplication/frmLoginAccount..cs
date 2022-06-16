@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace UserAccountNamespace
 {
-    public partial class Form1 : Form
+    public partial class frmLoginAccount : Form
     {
-        public Form1()
+        public frmLoginAccount()
         {
             InitializeComponent();
         }
