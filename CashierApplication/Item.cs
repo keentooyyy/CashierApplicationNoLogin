@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CashierApplication
 {
-    internal class Cashier
+    internal class Item
     {
     }
 }
